@@ -1,7 +1,7 @@
 # Setup
 title: Yiran Ding's Blog
 description: The bad news is time files. The good news, is you're the pilot.
-url: https://vszhub.github.io
+url: https://github.com/Yiyi-philosophy/my_blog/actions
 avatar: /DYR.png
 paginate: 5
 permalink: pretty
@@ -56,7 +56,7 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-# author:
-#   name: Songzi Vong
-#   url: https://github.com/vszhub/
-#   email: vszhub@gmail.com
+author:
+  name: Songzi Vong
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
